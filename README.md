@@ -1,4 +1,4 @@
-#localy created git
+# localy created git
 
 this repo is first created locally not on github
 
